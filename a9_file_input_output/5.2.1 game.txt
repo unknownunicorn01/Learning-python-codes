@@ -1,0 +1,40 @@
+your choice: 1 , Computer choice: 1
+you win
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 1
+you win
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 1
+you win
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 1 , Computer choice: 1
+you win
+your choice: 1 , Computer choice: 0
+you lose
+your choice: 0 , Computer choice: 0
+you win
+your choice: 0 , Computer choice: 1
+you lose
+your choice: 0 , Computer choice: 1
+you lose
+your choice: 0 , Computer choice: 0
+you win
