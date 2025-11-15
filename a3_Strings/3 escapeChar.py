@@ -1,0 +1,5 @@
+print("hellow world\nthis is new line")
+print("hellow world \t right now i am learning python")
+print('hellow world \'this sentence is in single quoutes\'')
+print("hellow world \\ this is a back slach")
+print('\a')
